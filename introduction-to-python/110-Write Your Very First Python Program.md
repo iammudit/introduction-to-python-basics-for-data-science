@@ -2,4 +2,4 @@
 
 <p>Write a Python program to print the given statement.</p>
 
-<p>"Hello, DPhi! Today I have executed my very first Python program. Thanks!"</p>
+<p>"Hello, AI Planet! Today I executed my very first Python program. Thanks!"</p>
